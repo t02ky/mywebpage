@@ -1,8 +1,3 @@
-h1 {
-    color:#e22ae8;
-  }
-  .translate{
-    color: blue;
-    position: relative;/*今の位置を起点として*/
-    left: 50%;/*leftから動くという意味、rightだったら左に移動する*/
-  }
+.tytle img{
+  width:50%;
+}
