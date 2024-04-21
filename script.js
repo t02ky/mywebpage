@@ -1,0 +1,1 @@
+ここにjava Scriptを格納する
