@@ -1,4 +1,2 @@
-/*ここにjava Scriptを格納する*/
-window.location.href="https://t02ky.github.io/mywebpage/index.html";
-/*現段階ではリダイレクト先のページを表示させたくないので。*/
+/*踏まれたリンク→リダイレクト先へ置換*/
 window.location.href="https://t02ky.github.io/redirect/index.html";
