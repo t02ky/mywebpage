@@ -3,8 +3,7 @@
 }
 
 button {
-    transition: background-color 1s;
-    transition: color 3s;
+    transition: background-color, color 1s;
 }
 
 button :hover {
