@@ -1,5 +1,14 @@
 .webpage_title {
-    text-align : center;
+    text-align: center;
+}
+
+button {
+    transition-duration: 1s;
+}
+
+button :hover {
+    background-color: black;
+    color: white;
 }
 
 footer {
