@@ -2,11 +2,11 @@
     text-align: center;
 }
 
-button {
+.link {
     transition: background-color, color 1s;
 }
 
-button :hover {
+.link :hover {
     background-color: black;
     color: white;
 }
