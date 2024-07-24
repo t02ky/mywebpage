@@ -1,7 +1,10 @@
 body {
-    background-color: #003300;
+    background-color: #000000;
 }
 
+p {
+    color: #ffffff;
+}
 .webpage_title {
     text-align: center;
 }
@@ -21,7 +24,7 @@ h1 {
 }
 
 .link:hover {
-    background: #ffffff;
+    background: #ffff55;
 }
 
 a {
