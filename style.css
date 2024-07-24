@@ -1,3 +1,7 @@
+body {
+    background-color: #003300;
+}
+
 .webpage_title {
     text-align: center;
 }
@@ -7,17 +11,17 @@ h1 {
 
 .link {
     display: inline;
-    color: #fff;
+    color: #000000;
     font-size: 16px;
     font-weight: bold;
-    background: #333;
+    background: #ffffff;
     padding: 18px 30px;
     border-radius: 6px;
     transition: .3s;
 }
 
 .link:hover {
-    background: #13c3ac;
+    background: #ffffff;
 }
 
 a {
